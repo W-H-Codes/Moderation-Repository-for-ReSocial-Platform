@@ -4,4 +4,4 @@ If you want to report someone on the platform, send me an email with a screensho
 
 ****This is still under heavy development!****
 
-Note to Github Devs: Don't worry. When end user's use my software, their computer will only request the new data for banned user I.D. codes every ~60 seconds, so no need to worry about lag on your end!
+Note to Github Devs: Don't worry. When end users use my software, their computer will only request the new data for banned user I.D. codes every ~60 seconds, so no need to worry about lag on your end!
